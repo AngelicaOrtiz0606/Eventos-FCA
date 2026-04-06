@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Eventos FCA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="username_hint">Número de cuenta</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_link">Registrarse</string>
+    <string name="reset_password">Restablecer contraseña</string>
+    <string name="logo_description">Logo de la aplicación</string>
 </resources>
