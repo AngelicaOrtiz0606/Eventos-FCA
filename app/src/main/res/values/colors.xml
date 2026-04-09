@@ -11,4 +11,5 @@
     <color name="input_stroke">#D1D5DB</color>
     <color name="input_stroke_focused">#5A67D8</color>
     <color name="input_hint">#9CA3AF</color>
+    <color name="disabled">#949292</color>
 </resources>
